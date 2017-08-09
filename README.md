@@ -17,3 +17,4 @@ record the ac codes on jobdu Online Judge System
 ### 贪心问题
 * [题目1435](https://github.com/ZikeWang/jobduOJ/blob/master/1435.c)
 * [题目1436](https://github.com/ZikeWang/jobduOJ/blob/master/1436.c)
+* [题目1437](https://github.com/ZikeWang/jobduOJ/blob/master/1437.c)
