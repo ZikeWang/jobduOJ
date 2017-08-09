@@ -21,3 +21,9 @@ record the ac codes on jobdu Online Judge System
 ### 二叉树
 * [题目1113](https://github.com/ZikeWang/jobduOJ/blob/master/1113.c)
 * [题目1176](https://github.com/ZikeWang/jobduOJ/blob/master/1176.c)
+### 数位拆解
+* [题目1015](https://github.com/ZikeWang/jobduOJ/blob/master/1015.c)
+* [题目1183](https://github.com/ZikeWang/jobduOJ/blob/master/1183.c)
+* [题目1064](https://github.com/ZikeWang/jobduOJ/blob/master/1064.c)
+* [题目1074](https://github.com/ZikeWang/jobduOJ/blob/master/1074.c)
+* [题目1124](https://github.com/ZikeWang/jobduOJ/blob/master/1124.c)
