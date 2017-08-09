@@ -18,3 +18,6 @@ record the ac codes on jobdu Online Judge System
 * [题目1435](https://github.com/ZikeWang/jobduOJ/blob/master/1435.c)
 * [题目1436](https://github.com/ZikeWang/jobduOJ/blob/master/1436.c)
 * [题目1437](https://github.com/ZikeWang/jobduOJ/blob/master/1437.c)
+### 二叉树
+* [题目1113](https://github.com/ZikeWang/jobduOJ/blob/master/1113.c)
+* [题目1176](https://github.com/ZikeWang/jobduOJ/blob/master/1176.c)
