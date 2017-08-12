@@ -27,3 +27,10 @@ record the ac codes on jobdu Online Judge System
 * [题目1064](https://github.com/ZikeWang/jobduOJ/blob/master/1064.c)
 * [题目1074](https://github.com/ZikeWang/jobduOJ/blob/master/1074.c)
 * [题目1124](https://github.com/ZikeWang/jobduOJ/blob/master/1124.c)
+### 进制转换
+* [题目1138](https://github.com/ZikeWang/jobduOJ/blob/master/1138.c)
+* [题目1194](https://github.com/ZikeWang/jobduOJ/blob/master/1194.c)
+### 素数及因数分解
+* [题目1040](https://github.com/ZikeWang/jobduOJ/blob/master/1040.c)
+* [题目1439](https://github.com/ZikeWang/jobduOJ/blob/master/1439.c)
+* [题目1440](https://github.com/ZikeWang/jobduOJ/blob/master/1440.c)
