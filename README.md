@@ -32,5 +32,9 @@ record the ac codes on jobdu Online Judge System
 * [题目1194](https://github.com/ZikeWang/jobduOJ/blob/master/1194.c)
 ### 素数及因数分解
 * [题目1040](https://github.com/ZikeWang/jobduOJ/blob/master/1040.c)
+* [题目1087](https://github.com/ZikeWang/jobduOJ/blob/master/1087.c)
 * [题目1439](https://github.com/ZikeWang/jobduOJ/blob/master/1439.c)
 * [题目1440](https://github.com/ZikeWang/jobduOJ/blob/master/1440.c)
+### 二分求幂
+* [题目1442](https://github.com/ZikeWang/jobduOJ/blob/master/1442.c)
+* [题目1443](https://github.com/ZikeWang/jobduOJ/blob/master/1443.c)
