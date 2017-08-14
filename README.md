@@ -38,3 +38,7 @@ record the ac codes on jobdu Online Judge System
 ### 二分求幂
 * [题目1442](https://github.com/ZikeWang/jobduOJ/blob/master/1442.c)
 * [题目1443](https://github.com/ZikeWang/jobduOJ/blob/master/1443.c)
+### 高精度运算（大数问题）
+* [题目1137](https://github.com/ZikeWang/jobduOJ/blob/master/1137.c)
+* [题目1190](https://github.com/ZikeWang/jobduOJ/blob/master/1190.c)
+* [题目1208](https://github.com/ZikeWang/jobduOJ/blob/master/1208.c)
