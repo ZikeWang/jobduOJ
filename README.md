@@ -45,6 +45,7 @@ record the ac codes on jobdu Online Judge System
 ### 并查集
 * [题目1109](https://github.com/ZikeWang/jobduOJ/blob/master/1109.c)
 * [题目1445](https://github.com/ZikeWang/jobduOJ/blob/master/1445.c)
+* [题目1446](https://github.com/ZikeWang/jobduOJ/blob/master/1446.c)
 ### 最小生成树
 * [题目1024](https://github.com/ZikeWang/jobduOJ/blob/master/1024.c)
 * [题目1028](https://github.com/ZikeWang/jobduOJ/blob/master/1028.c)
