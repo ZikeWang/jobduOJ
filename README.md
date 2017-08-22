@@ -59,3 +59,5 @@ record the ac codes on jobdu Online Judge System
 ### 枚举
 * [题目1036](https://github.com/ZikeWang/jobduOJ/blob/master/1036.c)
 * [题目1059](https://github.com/ZikeWang/jobduOJ/blob/master/1059.c)
+### 递归（回溯）
+* [题目1120](https://github.com/ZikeWang/jobduOJ/blob/master/1120.c)
