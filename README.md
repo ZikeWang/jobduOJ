@@ -50,3 +50,12 @@ record the ac codes on jobdu Online Judge System
 * [题目1024](https://github.com/ZikeWang/jobduOJ/blob/master/1024.c)
 * [题目1028](https://github.com/ZikeWang/jobduOJ/blob/master/1028.c)
 * [题目1154](https://github.com/ZikeWang/jobduOJ/blob/master/1154.c)
+### 最短路径
+* [题目1100](https://github.com/ZikeWang/jobduOJ/blob/master/1100.cpp)
+* [题目1162](https://github.com/ZikeWang/jobduOJ/blob/master/1162.cpp)
+### 拓扑排序
+* [题目1449](https://github.com/ZikeWang/jobduOJ/blob/master/1449.cpp)
+* [题目1450](https://github.com/ZikeWang/jobduOJ/blob/master/1450.cpp)
+### 枚举
+* [题目1036](https://github.com/ZikeWang/jobduOJ/blob/master/1036.c)
+* [题目1059](https://github.com/ZikeWang/jobduOJ/blob/master/1059.c)
