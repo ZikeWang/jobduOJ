@@ -65,3 +65,8 @@ record the ac codes on jobdu Online Judge System
 * [题目1122](https://github.com/ZikeWang/jobduOJ/blob/master/1122.c)
 ### 最长子序列
 * [题目1131](https://github.com/ZikeWang/jobduOJ/blob/master/1131.c)
+### HUST
+* [题目1179](https://github.com/ZikeWang/jobduOJ/blob/master/1179.c)
+* [题目1180](https://github.com/ZikeWang/jobduOJ/blob/master/1180.c)
+* [题目1181](https://github.com/ZikeWang/jobduOJ/blob/master/1181.c)
+* [题目1182](https://github.com/ZikeWang/jobduOJ/blob/master/1182.c)
