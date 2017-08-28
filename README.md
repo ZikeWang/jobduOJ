@@ -88,5 +88,11 @@ record the ac codes on jobdu Online Judge System
 * [题目1196](https://github.com/ZikeWang/jobduOJ/blob/master/1196.c)
 * [题目1197](https://github.com/ZikeWang/jobduOJ/blob/master/1197.c)
 * [题目1198](https://github.com/ZikeWang/jobduOJ/blob/master/1198.c)
+* [题目1199](https://github.com/ZikeWang/jobduOJ/blob/master/1199.c)
+* [题目1200](https://github.com/ZikeWang/jobduOJ/blob/master/1200.c)
+* [题目1201](https://github.com/ZikeWang/jobduOJ/blob/master/1201.c)
 * [题目1202](https://github.com/ZikeWang/jobduOJ/blob/master/1202.c)
+* [题目1203](https://github.com/ZikeWang/jobduOJ/blob/master/1203.c)
+* [题目1205](https://github.com/ZikeWang/jobduOJ/blob/master/1205.c)
+* [题目1206](https://github.com/ZikeWang/jobduOJ/blob/master/1206.c)
 
