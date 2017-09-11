@@ -71,3 +71,57 @@ int main(){
 //并输出，但是仔细阅读题目意思可以明确只要求输出下标最小的，显然在对矩阵的每
 //一行进行遍历时，第一个找到的最大值即为下标最小的，后面再找到的不用处理可以
 //直接跳过，因此只要通过比较发现了新的最大值，保存下标即可
+
+/*编写一个程序输入一个5X6的矩阵存储并输出，
+并且求出每行的最大值和每行的总和要求把每行总和放入每行最大值的位置， 
+最后把结果矩阵，每行最大值及其原下标及其总和输出*/
+
+#include <stdio.h>
+
+int main(){
+    int matrix[5][6];
+    int max[5];
+    int index[5][6];
+    int cnt[5];
+    int sum[5];
+    int i, j;
+    for(i=0; i<5; i++){
+        for(j=0; j<6; j++){
+            scanf("%d", &matrix[i][j]);
+        }
+    }
+    for(i=0; i<5; i++){
+        cnt[i] = 1;
+        max[i] = matrix[i][0];
+        index[i][cnt[i]-1] = 0;
+        sum[i] = max[i];
+        for(j=1; j<6; j++){
+            sum[i] += matrix[i][j];
+            if(matrix[i][j] > max[i]){
+                max[i] = matrix[i][j];
+                index[i][cnt[i]-1] = j;
+            }
+            else if(matrix[i][j] == max[i]){
+                cnt[i]++;
+                index[i][cnt[i]-1] = j;
+            }
+        }
+        for(j=0; j<cnt[i]; j++){
+            matrix[i][index[i][j]] = sum[i];
+        }
+    }
+    for(i=0; i<5; i++){
+        for(j=0; j<6; j++){
+            printf("%d ", matrix[i][j]);
+        }
+        printf("\n");
+    }
+    printf("\n");
+    for(i=0; i<5; i++){
+        printf("Line %d : \n", i);
+        for(j=0; j<cnt[i]; j++){
+            printf("max=%d, index=%d\n", max[i], index[i][j]);
+        }
+        printf("sum=%d\n\n", sum[i]);
+    }
+}
